@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    I am<b>Rj Tabiano</b>, a 3rd year <b>BSIT specialized in Web and Mobile Application</b> undergraduate from <b>FEU Insitute of Technology</b>.
+    I am <b>Rj Tabiano</b>, a 3rd year <b>BSIT specialized in Web and Mobile Application</b> undergraduate from <b>FEU Insitute of Technology</b>.
     An aspiring <b>Web Developer,</b> &nbsp; and <b>Full Stack Web Developer.</b> 
   <br>
   <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
@@ -34,7 +34,7 @@
 <code><a href="https://www.netlify.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify"  height="30"></a></code>
 <code><a href="https://getbootstrap.com/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024"></a></code>
  <code> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="30"/> </a> </code>
-<code><a href="https://nodejs.org/en/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
+<code><a href="https://www.php.net/" target="_blank"><img height="30" src="https://www.php.net//images/logos/new-php-logo.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
 </details>
 <br>
@@ -66,7 +66,7 @@
   <a href="https://github.com/RjTabiano">
     <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=omunite215&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
-  <a href="https://github.com/omunite215">
+  <a href="https://github.com/RjTabiano">
     <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=omunite215&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>

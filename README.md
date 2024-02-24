@@ -6,7 +6,7 @@
 <p align="center">
   <em>
     I am <b>Rj Tabiano</b>, a 3rd year <b>BSIT specialized in Web and Mobile Application</b> undergraduate from <b>FEU Insitute of Technology</b>.
-    An aspiring <b>Web Developer,</b> &nbsp; and <b>Full Stack Web Developer.</b> 
+    An aspiring <b>Web Designer,</b> &nbsp; and <b>Full Stack Web Developer.</b> 
   <br>
   <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
 </p>
@@ -14,7 +14,6 @@
 <h3>Little facts about me 🧑</h3>
 
 - 🧞 I'm a Tech Enthusiast since childhood.
-- 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development.
 - 👯 I’m looking to collaborate with Fullstack Web .
 - 💡 Contributing to Open Source Projects is always been a goal to me.
 - ⚡ Fun fact: I love Gaming and sports!

@@ -8,7 +8,7 @@
     I am <b>Rj Tabiano</b>, a 3rd year <b>BSIT Web and Mobile Application</b> undergraduate from <b>FEU Insitute of Technology</b>.
     An aspiring <b>Web Designer,</b> &nbsp; and <b>Full Stack Web Developer.</b> 
   <br>
-  <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
+  <b><i></i></b>
 </p>
 
 <h3>Little facts about me 🧑</h3>
@@ -70,7 +70,7 @@
   </a>
 </p>
   <a href="https://git.io/streak-stats">
-    <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RjTabiano&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true&theme=highcontrast&exclude_days=Sat&card_width=730" /></p>
+    <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RjTabiano&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true&theme=highcontrast&exclude_days=Sat&card_width=740" /></p>
   </a>
 </details>
 

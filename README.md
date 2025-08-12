@@ -5,8 +5,8 @@
 
 <p align="center">
   <em>
-    I am <b>Rj Tabiano</b>, a 4th year <b>BSIT Web and Mobile Application</b> undergraduate from <b>FEU Insitute of Technology</b>.
-    An aspiring <b>Web Designer,</b> &nbsp; and <b>Full Stack Web Developer.</b> 
+    I am <b>Rj Tabiano</b>, a <b>BSIT Web and Mobile Application</b> graduate from <b>FEU Insitute of Technology</b>.
+    An <b>AI Engineering Enthusiast,</b> &nbsp; and <b>Full Stack Web Developer.</b> 
   <br>
   <b><i></i></b>
 </p>
